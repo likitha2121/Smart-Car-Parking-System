@@ -14,7 +14,7 @@ A simple IoT-based Smart Parking System using:
 ![Setup](media/setup.jpg)
 
 ### 🚘 Working Demo:
-![Working](media/working_demo.jpg)
+![Working](media/demotest.gif.mp4)
 
 ---
 
@@ -55,7 +55,3 @@ See SmartParkingSystem.ino for full code.
 - Web/mobile dashboard integration
 
 ---
-
-## 📜 License
-
-MIT License (Free to use and modify)
